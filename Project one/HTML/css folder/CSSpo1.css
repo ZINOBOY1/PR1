@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: hsl(212, 45%, 89%);
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+    
+}
+h1{
+    font-size: 3rem;
+    text-align: center;
+}
+.Topcontainer{
+   width: 30%;
+   margin: 10rem auto;
+   border-radius: 25px;
+   background-color: #fff;
+   padding: 2rem;
+}
+
+.Qrcode{
+   width: 33rem;
+   border-radius: 20px;
+}
+P{
+    color: hsl(220, 15%, 55%);
+    line-height: 1;
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+    font-size: 2rem;
+}
